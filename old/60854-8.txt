@@ -1,6 +1,42 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 60854 ***
+The Project Gutenberg EBook of The Jeffersonians, 1801-1829, by 
+Richard B. Morris and James Woodress
 
-                       VOICES FROM AMERICA’S PAST
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Jeffersonians, 1801-1829
+       Voices from America's Past
+
+Author: Richard B. Morris
+        James Woodress
+
+Release Date: December 6, 2019 [EBook #60854]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE JEFFERSONIANS, 1801-1829 ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                       VOICES FROM AMERICA'S PAST
 
 
 
@@ -24,9 +60,9 @@
                        WEBSTER PUBLISHING COMPANY
                      ST. LOUIS    ATLANTA    DALLAS
 
-  VOICES FROM AMERICA’S PAST
+  VOICES FROM AMERICA'S PAST
   _The Beginnings of America 1607-1763_
-  _The Times That Tried Men’s Souls 1770-1783_
+  _The Times That Tried Men's Souls 1770-1783_
   _The Age of Washington 1783-1801_
   _The Jeffersonians 1801-1829_
   _Jacksonian Democracy 1829-1848_
@@ -34,7 +70,7 @@
   _A House Divided: The Civil War 1850-1865_
   (_Other titles in preparation_)
 
-  Copyright ©, 1961, by Webster Publishing Company
+  Copyright �, 1961, by Webster Publishing Company
   Printed in the United States of America
   All rights reserved
 
@@ -45,37 +81,37 @@
 
 
 Preface                                                                v
-                I Jefferson’s Administration, 1801-1809
+                I Jefferson's Administration, 1801-1809
 
 The Election and Inauguration                                          1
     Margaret Bayard Smith Describes the Election and Inauguration      2
-    Jefferson’s First Inaugural Address                                4
+    Jefferson's First Inaugural Address                                4
 
 Burr Kills Hamilton                                                    7
-    David Hosack Describes Hamilton’s Last Hours                       7
+    David Hosack Describes Hamilton's Last Hours                       7
 
 Marbury vs. Madison                                                   10
-    Excerpts from John Marshall’s Decision                            10
+    Excerpts from John Marshall's Decision                            10
 
 The Louisiana Purchase                                                12
     Jefferson Writes to Robert Livingston                             13
-    The Lewis and Clark Expedition: Lewis’ Journal                    14
+    The Lewis and Clark Expedition: Lewis' Journal                    14
 
 The Embargo Act                                                       18
     Washington Irving Satirizes the Embargo Act                       19
-                 II Madison’s Administration, 1809-1817
+                 II Madison's Administration, 1809-1817
 
-Madison’s Inauguration                                                22
-    Mrs. Smith’s Report                                               22
+Madison's Inauguration                                                22
+    Mrs. Smith's Report                                               22
 
 The War of 1812                                                       24
-    The _Constitution_ Defeats the _Guerrière_: Isaac Hull            25
+    The _Constitution_ Defeats the _Guerri�re_: Isaac Hull            25
     Commodore Perry Wins a Victory on Lake Erie: Oliver Perry         27
     The British Burn Washington: Dolly Madison                        28
     The British Burn Washington: George Gleig                         30
     The Battle of New Orleans: George Gleig                           32
     The Battle of New Orleans: Andrew Jackson                         35
-              III James Monroe’s Administration, 1817-1825
+              III James Monroe's Administration, 1817-1825
 
 Early Days in the Mississippi Valley                                  37
     A Husking Bee in Ohio: William Cooper Howells                     38
@@ -93,19 +129,19 @@ The Monroe Doctrine                                                   54
                           IV John Quincy Adams
 
 Lighthouses in the Sky                                                56
-    Excerpts from Adams’ First Message to Congress                    56
+    Excerpts from Adams' First Message to Congress                    56
 
 
 
 
 The selections by Margaret Bayard Smith, from _Forty Years of Washington
 Society_, edited by Gaillard Hunt, which begin on pages 2 and 22, were
-reprinted through the courtesy of Charles Scribner’s Sons.
+reprinted through the courtesy of Charles Scribner's Sons.
 
 The picture on the cover and the picture on page 1, of the Lewis and
 Clark Expedition, were reprinted through the courtesy of the John
 Hancock Mutual Life Insurance Company of Boston, Massachusetts. The
-picture on page 22, of the _Constitution_ and the _Guerrière_, was
+picture on page 22, of the _Constitution_ and the _Guerri�re_, was
 reprinted through the courtesy of the New York Public Library. The
 picture of a political speaker on the Fourth of July on page 37 and the
 picture of John Quincy Adams on page 56 were reprinted through the
@@ -125,7 +161,7 @@ flourishing in these years like a healthy adolescent. There were growing
 pains, to be sure, but no one doubted now that the youngster would reach
 manhood. The question was: What is he going to be like?
 
-The party battles of John Adams’ administration left the Federalist
+The party battles of John Adams' administration left the Federalist
 Party in ruins, and Thomas Jefferson succeeded to the presidency with an
 overwhelming popular mandate. During his first term, Jefferson increased
 his popularity through buying from France the enormous Louisiana
@@ -134,17 +170,17 @@ Lewis and Clark Expedition returned from exploring the new land, people
 began to realize the immense possibilities that the Louisiana Purchase
 held for the future of the United States.
 
-Jefferson’s second term was beset by foreign problems that culminated
-eventually in the War of 1812, during James Madison’s administration.
-Despite George Washington’s advice in his Farewell Address to stay out
+Jefferson's second term was beset by foreign problems that culminated
+eventually in the War of 1812, during James Madison's administration.
+Despite George Washington's advice in his Farewell Address to stay out
 of entangling foreign alliances, America could not avoid being affected
 by events abroad. She was caught between the hammer and the anvil during
-Napoleon’s wars with the rest of Europe. The War of 1812 settled no
+Napoleon's wars with the rest of Europe. The War of 1812 settled no
 issues but, soon afterward, the main Anglo-American problems left over
-from the Revolution were adjusted. Napoleon’s downfall at Waterloo
+from the Revolution were adjusted. Napoleon's downfall at Waterloo
 removed France as an obstacle to American development.
 
-The period known as the “Era of Good Feeling” followed the War of 1812.
+The period known as the "Era of Good Feeling" followed the War of 1812.
 During the two terms of James Monroe, internal matters were the main
 concern of the country: tariffs, banking, domestic improvements, the
 admission of new states into the Union. With the Monroe Doctrine, which
@@ -174,8 +210,8 @@ such as understanding the Embargo Act or the significance of the
 _Marbury_ vs. _Madison_ decision, but also an appreciation of the
 quality of the experience of being an American in the first quarter of
 the nineteenth century. Hence we have used such documents as Lorenzo
-Dow’s diary describing the life of a frontier preacher and Morris
-Birkbeck’s account of settling in Illinois.
+Dow's diary describing the life of a frontier preacher and Morris
+Birkbeck's account of settling in Illinois.
 
 In editing the manuscripts in this booklet, we have followed the
 practice of modernizing punctuation, capitalization, and spelling only
@@ -192,7 +228,7 @@ them.
 
 
 
-                 Jefferson’s Administration, 1801-1809
+                 Jefferson's Administration, 1801-1809
 
 
              [Illustration: The Lewis and Clark expedition]
@@ -206,29 +242,29 @@ them.
 On election day in 1800, Thomas Jefferson won a clear victory over John
 Adams but almost did not became President. The Constitution required
 that presidential electors cast two ballots; the winner became President
-and the runner-up became Vice-President. Jefferson’s running mate, Aaron
+and the runner-up became Vice-President. Jefferson's running mate, Aaron
 Burr, who had been nominated for Vice-President, received 73 electoral
 votes, the same number as Jefferson. This strange situation occurred
 because the Constitutional Convention had not anticipated the rise of
 party politics. When John Adams had defeated Jefferson in 1796,
 Jefferson, as the runner-up, was elected Vice-President. If parties had
-not developed by 1800, Adams, as Jefferson’s opponent, would surely have
+not developed by 1800, Adams, as Jefferson's opponent, would surely have
 become Vice-President. But because parties had arisen, all of
-Jefferson’s electors gave Burr their second vote. (A repetition of this
+Jefferson's electors gave Burr their second vote. (A repetition of this
 kind of deadlock was avoided for future elections by the Twelfth
 Amendment.)
 
 The Constitution stated that if the two leading candidates were tied,
 the election should be decided by the House of Representatives. The
 trouble was that in 1800 the House was controlled by the Federalists and
-not by Jefferson’s party. The Federalists nearly elected Burr President
+not by Jefferson's party. The Federalists nearly elected Burr President
 because they disliked him less than they disliked Jefferson.
 
 
 Margaret Bayard Smith Describes the Election and Inauguration
 
 Fortunately for the country, Federalist Alexander Hamilton, who knew
-Burr was unfit to be President, opposed his party’s plan to defeat
+Burr was unfit to be President, opposed his party's plan to defeat
 Jefferson. But while this crucial decision was being made, the nation
 waited breathlessly. The excitement in Washington is recorded in the
 following selection from the notebook of Margaret Bayard Smith, wife of
@@ -244,11 +280,11 @@ the editor of the _National Intelligencer_.
   adjacent county and cities thronged to the seat of government and hung
   like a thunder cloud over the Capitol, their indignation ready to
   burst on any individual who might be designated as President in
-  opposition to the people’s known choice. The citizens of Baltimore,
+  opposition to the people's known choice. The citizens of Baltimore,
   who from their proximity were the first apprised of this daring
   design, were with difficulty restrained from rushing on with an armed
-  force, to prevent—or if they could not prevent, to avenge this
-  violation of the people’s will and in their own vehement language to
+  force, to prevent--or if they could not prevent, to avenge this
+  violation of the people's will and in their own vehement language to
   hurl the usurper from his seat.
 
   Mr. Jefferson, then President of the Senate, sitting in the midst of
@@ -278,7 +314,7 @@ the editor of the _National Intelligencer_.
   necessity of avoiding any extrinsic or external influence. Beds, as
   well as food, were sent for the accommodation of those whom age or
   debility disabled from enduring such a long-protracted sitting. The
-  balloting took place every hour—in the interval men ate, drank, slept
+  balloting took place every hour--in the interval men ate, drank, slept
   or pondered over the result of the last ballot, compared ideas and
   persuasions to change votes, or gloomily anticipated the consequences,
   let the result be what it would.
@@ -295,13 +331,13 @@ the editor of the _National Intelligencer_.
   For more than thirty hours the struggle was maintained, but finding
   the Republican phalanx impenetrable, not to be shaken in their
   purpose, every effort proving unavailing, the Senator from Delaware
-  [_James A. Bayard—actually a Representative_], the withdrawal of whose
-  vote would determine the issue, took his part, gave up his party, for
-  his country, and threw into the box a blank ballot, thus leaving to
-  the Republicans a majority. Mr. Jefferson was declared duly elected.
-  The assembled crowds, without the Capitol, rent the air with their
-  acclamations and gratulations, and the conspirators, as they were
-  called, hurried to their lodgings under strong apprehensions of
+  [_James A. Bayard--actually a Representative_], the withdrawal of
+  whose vote would determine the issue, took his part, gave up his
+  party, for his country, and threw into the box a blank ballot, thus
+  leaving to the Republicans a majority. Mr. Jefferson was declared duly
+  elected. The assembled crowds, without the Capitol, rent the air with
+  their acclamations and gratulations, and the conspirators, as they
+  were called, hurried to their lodgings under strong apprehensions of
   suffering from the just indignation of their fellow citizens.
 
   The dark and threatening cloud which had hung over the political
@@ -310,7 +346,7 @@ the editor of the _National Intelligencer_.
   passing clouds, has continued to shine on our happy country.
 
 
-Jefferson’s First Inaugural Address
+Jefferson's First Inaugural Address
 
 As the author of the Declaration of Independence and many memorable
 state papers, Thomas Jefferson was, with Abraham Lincoln, one of our two
@@ -396,7 +432,7 @@ eloquence of most speakers in his day.
   enough. But would the honest patriot, in the full tide of successful
   experiment abandon a government which has so far kept us free and
   firm, on the theoretic and visionary fear that this government, the
-  world’s best hope may, by possibility, want energy to preserve itself?
+  world's best hope may, by possibility, want energy to preserve itself?
 
   I trust not. I believe this, on the contrary, the strongest government
   on earth.
@@ -445,13 +481,13 @@ eloquence of most speakers in his day.
 
 
 The feud between Hamilton and Burr preceded the election of 1800, in
-which Hamilton opposed Burr’s election to the presidency. The rivalry
+which Hamilton opposed Burr's election to the presidency. The rivalry
 between these two New Yorkers actually had begun during the Revolution
 and had continued throughout their political careers, but it reached a
 special intensity in 1800. As Vice-President under Jefferson, Burr had
 reached the peak of his career, but Jefferson, realizing that Burr
 almost had schemed his way into the presidency, undermined his influence
-in the Republican Party. In 1804, Hamilton again thwarted Burr’s
+in the Republican Party. In 1804, Hamilton again thwarted Burr's
 ambitions by helping to defeat him for governor of New York. The duel
 soon followed.
 
@@ -467,7 +503,7 @@ to spend the next four years in exile. He later returned to an obscure
 law practice in New York.
 
 
-David Hosack Describes Hamilton’s Last Hours
+David Hosack Describes Hamilton's Last Hours
 
 In the selection that follows, David Hosack, the physician who attended
 Hamilton at the duel, describes the scene immediately after Burr fired
@@ -482,7 +518,7 @@ _Post_, the paper Hamilton had founded.
   When called to him, upon his receiving the fatal wound, I found him
   half sitting on the ground, supported in the arms of Mr. Pendleton.
   His countenance of death I shall never forget. He had at that instant
-  just strength to say, “This is a mortal wound, Doctor”; when he sunk
+  just strength to say, "This is a mortal wound, Doctor"; when he sunk
   away, and became to all appearance lifeless. I immediately stripped up
   his clothes, and soon, alas! ascertained that the direction of the
   ball must have been through some vital part. His pulses were not to be
@@ -502,20 +538,20 @@ _Post_, the paper Hamilton had founded.
   the first time manifest. In a few minutes he sighed, and became
   sensible to the impression of the hartshorn, or the fresh air of the
   water. He breathed; his eyes, hardly opened, wandered, without fixing
-  upon any objects. To our great joy he at length spoke: “My vision is
-  indistinct,” were his first words. His pulse became more perceptible;
+  upon any objects. To our great joy he at length spoke: "My vision is
+  indistinct," were his first words. His pulse became more perceptible;
   his respiration more regular; his sight returned.
 
   ... Soon after recovering his sight, he happened to cast his eye upon
   the case of pistols, and observing the one that he had had in his hand
-  lying on the outside, he said, “Take care of that pistol; it is
-  undischarged, and still cocked; it may go off and do harm.—_Pendleton
+  lying on the outside, he said, "Take care of that pistol; it is
+  undischarged, and still cocked; it may go off and do harm.--_Pendleton
   knows_ (attempting to turn his head towards him) _that I did not
-  intend to fire at him_.” “Yes,” said Mr. Pendleton, understanding his
-  wish, “I have already made Dr. Hosack acquainted with your
-  determination as to that.”... Perceiving that we approached the shore,
-  he said, “Let Mrs. Hamilton be immediately sent for. Let the event be
-  gradually broken to her; but give her hopes.”
+  intend to fire at him_." "Yes," said Mr. Pendleton, understanding his
+  wish, "I have already made Dr. Hosack acquainted with your
+  determination as to that."... Perceiving that we approached the shore,
+  he said, "Let Mrs. Hamilton be immediately sent for. Let the event be
+  gradually broken to her; but give her hopes."
 
   Looking up, we saw his friend Mr. Bayard standing on the wharf in
   great agitation. He had been told by his servant that General
@@ -537,18 +573,18 @@ _Post_, the paper Hamilton had founded.
   diminution of pain. His mind retained all its usual strength and
   composure. The great source of his anxiety seemed to be in his
   sympathy with his half-distracted wife and children. He spoke to her
-  frequently of them. “My beloved wife and children,” were always his
+  frequently of them. "My beloved wife and children," were always his
   expressions. But his fortitude triumphed over his situation, dreadful
   as it was. Once, indeed, at the sight of his children brought to the
   bedside together, seven in number, his utterance forsook him. He
   opened his eyes, gave them one look, and closed them again till they
   were taken away. As a proof of his extraordinary composure of mind,
   let me add that he alone could calm the frantic grief of their mother.
-  “_Remember, my Eliza, you are a Christian_,” were the expressions with
+  "_Remember, my Eliza, you are a Christian_," were the expressions with
   which he frequently, with a firm voice, but in a pathetic and
   impressive manner, addressed her. His words, and the tone in which
   they were uttered, will never be effaced from my memory. At about two
-  o’clock, as the public well knows, he expired.
+  o'clock, as the public well knows, he expired.
 
 
 
@@ -580,7 +616,7 @@ principle that Congress may not give powers not specifically authorized
 by the Constitution to the courts or to anyone else.
 
 
-Excerpts from John Marshall’s Decision
+Excerpts from John Marshall's Decision
 
   The question whether an act, repugnant [_opposed_] to the
   Constitution, can become the law of the land is a question deeply
@@ -635,15 +671,15 @@ Marshall goes on to refute the argument that the Supreme Court should
 concern itself only with interpreting the law, regardless of the
 Constitution. Then he quotes specific passages from the Constitution:
 
-  It is declared that “no tax or duty shall be laid on articles exported
-  from any state.” Suppose a duty on the export of cotton, of tobacco,
+  It is declared that "no tax or duty shall be laid on articles exported
+  from any state." Suppose a duty on the export of cotton, of tobacco,
   or of flour; and a suit instituted to recover it. Ought judgment to be
   rendered in such a case? Ought the judges to close their eyes on the
   Constitution and only see the law?...
 
-  “No person,” says the Constitution, “shall be convicted of treason,
+  "No person," says the Constitution, "shall be convicted of treason,
   unless on the testimony of two witnesses to the same _overt_ act, or
-  on confession in open court.” Here the language of the Constitution is
+  on confession in open court." Here the language of the Constitution is
   addressed especially to the courts. It prescribes directly for them, a
   rule of evidence not to be departed from. If the legislature should
   change that rule and declare one witness, or a confession out of
@@ -663,8 +699,8 @@ Constitution. Then he quotes specific passages from the Constitution:
 
 At the end of the decision the Chief Justice concluded that the language
 of the Constitution confirmed and strengthened the principle essential
-to all written constitutions “that a law repugnant to the Constitution
-is void.”
+to all written constitutions "that a law repugnant to the Constitution
+is void."
 
 
 
@@ -672,7 +708,7 @@ is void.”
                          The Louisiana Purchase
 
 
-The great event of Jefferson’s first term was the acquisition of the
+The great event of Jefferson's first term was the acquisition of the
 Louisiana Territory, that vast tract of land extending from the
 Mississippi River to the Rocky Mountains, from the Canadian border to
 the Gulf of Mexico. The purchase of this land from Napoleon was not a
@@ -744,7 +780,7 @@ Exploring the Missouri River Valley and the Rocky Mountain area long had
 been a cherished project of President Jefferson. He had talked about it
 periodically since the Revolution, and when he became President he set
 about to make his dream come true. Even before the United States owned
-the Louisiana Territory, Capt. Meriwether Lewis, Jefferson’s secretary,
+the Louisiana Territory, Capt. Meriwether Lewis, Jefferson's secretary,
 and William Clark, younger brother of George Rogers Clark, had been
 picked to head an expedition to explore the West.
 
@@ -753,7 +789,7 @@ left St. Louis. Capt. Lewis led his explorers up the Missouri River to
 what is now North Dakota, and before cold weather set in they built huts
 and a stockade for winter quarters. The next spring they moved on up the
 river in dugout canoes (pirogues) towards the mountains. The following
-selection from Capt. Lewis’ journal of the expedition was set down on
+selection from Capt. Lewis' journal of the expedition was set down on
 April 13, 1805, when the party was at the junction of the Missouri and
 the Little Missouri rivers, still in North Dakota.
 
@@ -798,7 +834,7 @@ following the Missouri River:
   created a most horrid stench. In this manner the Indians of the
   Missouri destroy vast herds of buffalo at a stroke; for this purpose
   one of the most active and fleet young men is selected and disguised
-  in a robe of buffalo skin, having also the skin of the buffalo’s head
+  in a robe of buffalo skin, having also the skin of the buffalo's head
   with the ears and horns fastened on his head in form of a cap. Thus
   caparisoned he places himself at a convenient distance between a herd
   of buffalo and a precipice proper for the purpose, which happens in
@@ -819,7 +855,7 @@ following the Missouri River:
 
 By August 13 the expedition was crossing the Continental Divide at Lemhi
 Pass on the border between Montana and Idaho. In the selection that
-follows, Capt. Lewis describes the party’s meeting with the Shoshone
+follows, Capt. Lewis describes the party's meeting with the Shoshone
 Indians.
 
   We had not continued our route more than a mile when we were so
@@ -901,7 +937,7 @@ retaliated by counter-blockades. The United States, with a large
 merchant fleet but scarcely any navy, was caught in the middle. Hundreds
 of American ships were seized and their cargoes confiscated. Both
 England and France violated American neutral rights, but England, with
-the world’s strongest navy, was the chief offender. When a British
+the world's strongest navy, was the chief offender. When a British
 warship, the _Leopard_, fired on and impressed American seamen from an
 American frigate, the _Chesapeake_, off the coast of Virginia, the
 United States was ready to fight.
@@ -920,20 +956,20 @@ The Embargo Act had to be repealed.
 Washington Irving Satirizes the Embargo Act
 
 About the time the Embargo Act was repealed, Washington Irving,
-America’s first important man of letters, wrote his _History of New
+America's first important man of letters, wrote his _History of New
 York_. This book is a burlesque account of the old Dutch period in New
 York history, a very funny book, full of comic pictures of the Dutch
 governors and the early settlers. The book also contains some
 contemporary political satire in the chapters devoted to William the
 Testy. In the selections which follow you will see obvious references to
-the _Chesapeake_ incident, the Embargo Act, and President Jefferson’s
+the _Chesapeake_ incident, the Embargo Act, and President Jefferson's
 actions.
 
   As my readers are well aware of the advantage a potentate has in
   handling his enemies as he pleases in his speeches and bulletins,
   where he has the talk all on his own side, they may rest assured that
   William the Testy did not let such an opportunity escape of giving the
-  Yankees what is called “a taste of his quality.” In speaking of their
+  Yankees what is called "a taste of his quality." In speaking of their
   inroads into the territories of their High Mightinesses, he compared
   them to the Gauls who desolated Rome, the Goths and Vandals who
   overran the fairest plains of Europe; but when he came to speak of the
@@ -963,7 +999,7 @@ actions.
   of this formidable instrument that Wilhelmus Kieft calculated,
   pledging his valor as a governor that, once fulminated [_thundered_]
   against the Yankees, it would in less than two months drive every
-  mother’s son of them across the borders.
+  mother's son of them across the borders.
 
   The council broke up in perfect wonder, and nothing was talked of for
   some time among the old men and women of New Amsterdam but the vast
@@ -973,11 +1009,11 @@ actions.
   As to Wilhelmus Kieft, having dispatched his proclamation to the
   frontiers, he put on his cocked hat and corduroy small clothes, and,
   mounting a tall rawboned charger, trotted out to his rural retreat of
-  Dog’s Misery....
+  Dog's Misery....
 
-  Never was a more comprehensive, a more expeditious—or, what is still
-  better, a more economical—measure devised than this of defeating the
-  Yankees by proclamation—an expedient, likewise, so gentle and humane
+  Never was a more comprehensive, a more expeditious--or, what is still
+  better, a more economical--measure devised than this of defeating the
+  Yankees by proclamation--an expedient, likewise, so gentle and humane
   there were ten chances to one in favor of its succeeding, but then
   there was one chance to ten that it would not succeed: as the
   ill-natured Fates would have it, that single chance carried the day!
@@ -986,8 +1022,8 @@ actions.
   insure its effect was, that the Yankees should stand in awe of it;
   but, provoking to relate, they treated it with the most absolute
   contempt, applied it to an unseemly purpose, and thus did the first
-  warlike proclamation come to a shameful end—a fate which I am credibly
-  informed has befallen but too many of its successors.
+  warlike proclamation come to a shameful end--a fate which I am
+  credibly informed has befallen but too many of its successors.
 
   So far from abandoning the country, those varlets [_rascals_]
   continued their encroachments, squatting along the green banks of the
@@ -1021,7 +1057,7 @@ actions.
   set at naught by the young folks of both sexes, if we may judge by the
   active bundling which took place along the borders.
 
-Irving concludes this satire of William the Testy’s proclamation by a
+Irving concludes this satire of William the Testy's proclamation by a
 comic account of how the Yankees captured Fort Goed Hoop. They sneaked
 into the fort while the Dutch soldiers were sleeping off their dinner,
 gave the defenders a kick in the pants, and sent them back to New
@@ -1030,15 +1066,15 @@ Amsterdam.
 
 
 
-                  Madison’s Administration, 1809-1817
+                  Madison's Administration, 1809-1817
 
 
-         [Illustration: The _Constitution_ and the _Guerrière_]
+         [Illustration: The _Constitution_ and the _Guerri�re_]
 
 
-Madison’s Inauguration
+Madison's Inauguration
 
-Despite the unpopularity of the Embargo Act, James Madison, Jefferson’s
+Despite the unpopularity of the Embargo Act, James Madison, Jefferson's
 choice to succeed him in the presidency, was elected by a large margin.
 Madison had served a long career in public life, beginning with the
 Continental Congress and the Constitutional Convention and more recently
@@ -1048,9 +1084,9 @@ time the events of March 4, 1809, Inauguration Day. Note that she mixes
 up the sequence of events by starting with the reception after the
 inauguration before describing the inauguration.
 
-  Today after the inauguration we all went to Mrs. Madison’s. The street
+  Today after the inauguration we all went to Mrs. Madison's. The street
   was full of carriages and people, and we had to wait near half an hour
-  before we could get in—the house was completely filled, parlours,
+  before we could get in--the house was completely filled, parlours,
   entry, drawing room and bed room. Near the door of the drawing room
   Mr. and Mrs. Madison stood to receive their company. She looked
   extremely beautiful, was dressed in a plain cambric dress with a very
@@ -1062,22 +1098,22 @@ inauguration before describing the inauguration.
   but it was when I saw our dear and venerable Mr. Jefferson that my
   heart beat. When he saw me, he advanced from the crowd, took my hand
   affectionately, and held it five or six minutes; one of the first
-  things he said was, “Remember the promise you have made me, to come to
-  see us next summer; do not forget it,” said he, pressing my hand, “for
-  we shall certainly expect you.” I assured him I would not, and told
+  things he said was, "Remember the promise you have made me, to come to
+  see us next summer; do not forget it," said he, pressing my hand, "for
+  we shall certainly expect you." I assured him I would not, and told
   him I could now wish him joy with much more sincerity than this day 8
   years ago.
 
-  “You have now resigned a heavy burden,” said I.
+  "You have now resigned a heavy burden," said I.
 
-  “Yes indeed,” he replied, “and am much happier at this moment than my
-  friend.”
+  "Yes indeed," he replied, "and am much happier at this moment than my
+  friend."
 
   The crowd was immense both at the Capitol and here; thousands and
   thousands of people thronged the avenue. The Capitol presented a gay
   scene. Every inch of space was crowded and there being as many ladies
   as gentlemen, all in full dress, it gave it rather a gay than a solemn
-  appearance—there was an attempt made to appropriate particular seats
+  appearance--there was an attempt made to appropriate particular seats
   for the ladies of public characters, but it was found impossible to
   carry it into effect, for the sovereign people would not resign their
   privileges and the high and low were promiscuously blended on the
@@ -1087,7 +1123,7 @@ inauguration before describing the inauguration.
 
 Mrs. Smith now interrupts her letter (to her sister-in-law) and finishes
 it the next day. The event she describes is the inauguration ball at
-Long’s Hotel.
+Long's Hotel.
 
   Last evening, I endeavored calmly to look on, and amidst the noise,
   bustle and crowd, to spend an hour or two in sober reflection, but my
@@ -1129,16 +1165,16 @@ marched to the Canadian border, lost his nerve, and turned back.
 
 The War of 1812 was also like the Korean war in that it was unpopular
 with the political party out of office. Federalist New England refused
-to support it, calling the conflict “Mr. Madison’s War,” and seriously
+to support it, calling the conflict "Mr. Madison's War," and seriously
 talked of secession. New England merchants traded with the enemy, and
 when Maine was occupied by the British, many Americans quickly took an
-oath of allegiance to the king. The Czar of Russia’s offer to act as
+oath of allegiance to the king. The Czar of Russia's offer to act as
 mediator between England and America was eagerly accepted. The peace
 talks, however, dragged on for nearly two years before a settlement,
 leaving things just as they were before the war, was agreed upon.
 
 Although neither side won, the War of 1812 did have some important
-consequences. Historians see it as America’s second war for
+consequences. Historians see it as America's second war for
 independence. The Revolution severed American ties with England. The War
 of 1812 removed any doubts in the minds of European powers that the
 United States was here to stay. Also, in the years following the war,
@@ -1147,13 +1183,13 @@ Spanish out of Florida. And, for the first time, the United States could
 concentrate on internal problems.
 
 
-The Constitution Defeats the Guerrière
+The Constitution Defeats the Guerri�re
 
 The frigate _Constitution_, captained by Isaac Hull, already had a
 distinguished history when the War of 1812 began. She had been built in
 Boston during the trouble with France in 1797 and had taken part in the
 war with the Barbary pirates. The peace treaty with Tripoli had been
-signed in the captain’s quarters on the gun deck. A trim, fast, graceful
+signed in the captain's quarters on the gun deck. A trim, fast, graceful
 ship, the frigate had been made from timbers of solid live oak, hard
 pine, and red cedar. The bolts, copper sheathing, and brass-work had
 been supplied by Paul Revere. This ship now is preserved as a museum at
@@ -1161,7 +1197,7 @@ the Boston Navy Yard.
 
 Congress declared war on England in June, 1812, and the next month Capt.
 Hull sailed from Chesapeake Bay. In August he encountered the British
-ship _Guerrière_, and the action that followed he reports in his
+ship _Guerri�re_, and the action that followed he reports in his
 dispatch to the Secretary of the Navy. Thus, the war began with a
 resounding sea victory.
 
@@ -1201,11 +1237,11 @@ resounding sea victory.
   standing, and her hull below and above water so shattered, that a few
   more broadsides must have carried her down.
 
-  After informing you that so fine a ship as the _Guerrière_, commanded
+  After informing you that so fine a ship as the _Guerri�re_, commanded
   by an able and experienced officer, had been totally dismasted, and
   otherwise cut to pieces, so as to make her not worth towing into port,
   in the short space of 30 minutes, you can have no doubt of the
-  gallantry and good conduct of the officers and ship’s company I have
+  gallantry and good conduct of the officers and ship's company I have
   the honour to command. It only remains, therefore, for me to assure
   you, that they all fought with great bravery; and it gives me great
   pleasure to say, that from the smallest boy in the ship to the oldest
@@ -1223,10 +1259,10 @@ The naval campaigns of the War of 1812 were fought on the Great Lakes as
 well as in the Atlantic. Because British troops were based in Canada,
 the northern border of the United States inevitably became a battle
 line. Commodore Perry won another important sea victory a year after the
-_Constitution_ defeated the _Guerrière_ when his squadron defeated and
+_Constitution_ defeated the _Guerri�re_ when his squadron defeated and
 captured a British squadron on Lake Erie. This was the battle which
 Perry reported to General William Henry Harrison in his famous remark:
-“We have met the enemy, and they are ours.” In the two dispatches that
+"We have met the enemy, and they are ours." In the two dispatches that
 follow, Perry gives a full account of the action to the Secretary of the
 Navy.
 
@@ -1240,7 +1276,7 @@ Navy.
 
   Sir,
 
-  In my last I informed you that we had captured the enemy’s fleet on
+  In my last I informed you that we had captured the enemy's fleet on
   this lake. I have now the honour to give you the most important
   particulars of the action. On the morning of the 10th instant, at
   sunrise, they were discovered from Put-In-Bay, when I lay at anchor
@@ -1274,9 +1310,9 @@ Navy.
   brave crew. But the enemy was not able to take possession of her, and
   circumstances soon permitted her flag again to be hoisted.
 
-  At 45 minutes past 2, the signal was made for “close action.” The
+  At 45 minutes past 2, the signal was made for "close action." The
   _Niagara_ being very little injured, I determined to pass through the
-  enemy’s line, bore up and passed ahead of their two ships and a brig,
+  enemy's line, bore up and passed ahead of their two ships and a brig,
   giving a raking fire to them from the starboard guns, and to a large
   schooner and sloop, from the larboard side, at half pistol shot
   distance. The smaller vessels at this time having got within grape and
@@ -1292,18 +1328,18 @@ United States occurred in August, 1814, when British troops marched into
 Washington and burned the public buildings. This was a punitive action
 designed to teach the Americans a lesson and to demoralize the country.
 Official Washington fled at the approach of the British, and in the
-following letter Dolly Madison, the President’s wife, describes her
+following letter Dolly Madison, the President's wife, describes her
 activities on the day before and her flight from the White House on the
 day of the British invasion.
 
-  Dear Sister—My husband left me yesterday morning to join General
+  Dear Sister--My husband left me yesterday morning to join General
   Winder. He inquired anxiously whether I had courage or firmness to
-  remain in the President’s house until his return on the morrow, or
+  remain in the President's house until his return on the morrow, or
   succeeding day, and on my assurance that I had no fear but for him,
   and the success of our army, he left, beseeching me to take care of
   myself, and of the Cabinet papers, public and private. I have since
   received two dispatches from him, written with a pencil. The last is
-  alarming, because he desires I should be ready at a moment’s warning
+  alarming, because he desires I should be ready at a moment's warning
   to enter my carriage, and leave the city; that the enemy seemed
   stronger than had at first been reported, and it might happen that
   they would reach the city with the intention of destroying it. I am
@@ -1321,14 +1357,14 @@ day of the British invasion.
   being able to make him understand why all advantages in war may not be
   taken.
 
-  _Wednesday Morning_, twelve o’clock. Since sunrise I have been turning
+  _Wednesday Morning_, twelve o'clock. Since sunrise I have been turning
   my spy-glass in every direction, and watching with unwearied anxiety,
   hoping to discover the approach of my dear husband and his friends;
   but, alas! I can descry only groups of military, wandering in all
   directions, as if there was a lack of arms, or of spirit to fight for
   their own fireside.
 
-  Three o’clock. Will you believe it, my sister? we have had a battle,
+  Three o'clock. Will you believe it, my sister? we have had a battle,
   or skirmish, near Bladensburg, and here I am still, within sound of
   the cannon! Mr. Madison comes not. May God protect us! Two messengers
   covered with dust come to bid me fly; but here I mean to wait for
@@ -1361,7 +1397,7 @@ George Gleig, in _A Narrative of the Campaigns of the British Army_.
   While the third brigade was thus employed [_burning buildings_], the
   rest of the army, having recalled its stragglers and removed the
   wounded into Bladensburg, began its march towards Washington. Though
-  the battle was ended by four o’clock, the sun had set before the
+  the battle was ended by four o'clock, the sun had set before the
   different regiments were in a condition to move; consequently this
   short journey was performed in the dark. The work of destruction had
   also begun in the city, before they quitted their ground; and the
@@ -1371,8 +1407,8 @@ George Gleig, in _A Narrative of the Campaigns of the British Army_.
   than the sight which met them as they drew near to the town. The sky
   was brilliantly illuminated by the different conflagrations, and a
   dark red light was thrown upon the road, sufficient to permit each man
-  to view distinctly his comrade’s face. Except the burning of St.
-  Sebastian’s, I do not recollect to have witnessed ... a scene more
+  to view distinctly his comrade's face. Except the burning of St.
+  Sebastian's, I do not recollect to have witnessed ... a scene more
   striking or more sublime.
 
   I need scarcely to observe that the consternation of the inhabitants
@@ -1396,7 +1432,7 @@ George Gleig, in _A Narrative of the Campaigns of the British Army_.
   much I know, that the feast was actually prepared, though, instead of
   being devoured by American officers, it went to satisfy the less
   delicate appetites of a party of English soldiers. When the detachment
-  sent out to destroy Mr. Madison’s house entered his dining parlor,
+  sent out to destroy Mr. Madison's house entered his dining parlor,
   they found a dinner table spread and covers laid for forty guests.
   Several kinds of wine, in handsome cut-glass decanters, were cooling
   on the sideboard; plate-holders stood by the fireplace, filled with
@@ -1441,7 +1477,7 @@ George Gleig, in _A Narrative of the Campaigns of the British Army_.
   next morning, the light brigade moved into the city, while the reserve
   fell back to a height about a half mile in the rear. Little, however,
   now remained to be done, because everything marked out for destruction
-  was already consumed. Of the Senate house, the President’s palace, the
+  was already consumed. Of the Senate house, the President's palace, the
   barracks, the dockyard, etc., nothing could be seen except heaps of
   smoking ruins; and even the bridge ... was almost wholly demolished.
 
@@ -1451,12 +1487,12 @@ The Battle of New Orleans
 Despite the general incompetence of the American leadership in the War
 of 1812, Andrew Jackson emerged from the campaigns as a genuine war
 hero. The Battle of New Orleans, which ironically was fought after the
-peace treaty had been signed in Europe, was a great victory. Jackson’s
+peace treaty had been signed in Europe, was a great victory. Jackson's
 troops, greatly outnumbered, barricaded themselves behind cotton bales
 and earthworks and mowed down the British as they stormed the American
 positions. In the two selections that follow, we print first the account
 of the battle by the British officer George Gleig and then General
-Jackson’s terse report to the Secretary of War.
+Jackson's terse report to the Secretary of War.
 
 
                                  OFFICER GLEIG:
@@ -1472,7 +1508,7 @@ Jackson’s terse report to the Secretary of War.
   sticks to fill ditches_] upon the field. The 44th, which was appointed
   to carry them, had either misunderstood or neglected their orders and
   now headed the column of attack without any means being provided for
-  crossing the enemy’s ditch, or scaling his rampart.
+  crossing the enemy's ditch, or scaling his rampart.
 
   The indignation of poor Pakenham on this occasion may be imagined, but
   cannot be described. Galloping towards Colonel Mullens, who led the
@@ -1498,10 +1534,10 @@ Jackson’s terse report to the Secretary of War.
   battery, at length succeeded in recapturing it with immense slaughter.
 
   On the right, again, the 21st and 4th being almost cut to pieces and
-  thrown into some confusion by the enemy’s fire, the 93d pushed on and
+  thrown into some confusion by the enemy's fire, the 93d pushed on and
   took the lead. Hastening forward, our troops soon reached the ditch;
   but to scale the parapet without ladders was impossible. Some few,
-  indeed, by mounting one upon another’s shoulders, succeeded in
+  indeed, by mounting one upon another's shoulders, succeeded in
   entering the works, but these were instantly overpowered, most of them
   killed, and the rest taken; while as many as stood without were
   exposed to a sweeping fire, which cut them down by whole companies. It
@@ -1538,7 +1574,7 @@ Jackson’s terse report to the Secretary of War.
   of the fugitives.
 
 
-                           GENERAL JACKSON’S REPORT:
+                           GENERAL JACKSON'S REPORT:
 
   During the days of the 6th and 7th, the enemy had been actively
   employed in making preparations for an attack on my lines. With
@@ -1567,7 +1603,7 @@ Jackson’s terse report to the Secretary of War.
   and congreve rockets, advanced their columns on my right and left, to
   storm my entrenchments. I cannot speak sufficiently in praise of the
   firmness and deliberation with which my whole line received their
-  approach—_more_ could not have been expected from veterans inured to
+  approach--_more_ could not have been expected from veterans inured to
   war. For an hour the fire of the small arms was as incessant and
   severe as can be imagined. The artillery, too, directed by officers
   who displayed equal skill and courage, did great execution.
@@ -1603,7 +1639,7 @@ battle they were allies in World War I.
 
 
 
-                James Monroe’s Administration, 1817-1825
+                James Monroe's Administration, 1817-1825
 
 
           [Illustration: Public speaker on the Fourth of July]
@@ -1616,7 +1652,7 @@ battle they were allies in World War I.
 
 James Monroe was the last of the quartet of Virginia Presidents which
 had begun with George Washington. He was elected after serving as
-Madison’s Secretary of State, but before that he had fought in the
+Madison's Secretary of State, but before that he had fought in the
 Revolution, sat in the Continental Congress, been a Senator, a governor,
 and a minister to France. His term as President is known as the Era of
 Good Feeling because of the absence of serious problems to divide the
@@ -1625,7 +1661,7 @@ beginnings of the industrial revolution began to change the East.
 
 During the early decades of the nineteenth century the wilderness across
 the Allegheny Mountains began to fill up with farmers. Throughout
-Jefferson’s administration there were occasional skirmishes with the
+Jefferson's administration there were occasional skirmishes with the
 Indians, but gradually the Indians were pushed out of their traditional
 hunting grounds. While Madison was President, the Shawnee chief
 Tecumseh, who had attempted to organize Indian resistance, was crushed
@@ -1743,7 +1779,7 @@ Instead of the stern Puritanism of colonial New England, the religion of
 the West in the early years of the last century was highly evangelistic.
 By this time, the Methodist movement had made a large number of converts
 and was particularly strong on the frontier. One tireless Methodist
-preacher was Lorenzo Dow, often known as “Crazy Dow,” who traveled
+preacher was Lorenzo Dow, often known as "Crazy Dow," who traveled
 throughout the United States during a long ministry. Though he lived
 until 1834, the selection that follows comes from his journal of 1804,
 when he visited Tennessee at the age of 27. He was then traveling about
@@ -1781,7 +1817,7 @@ Dow as the _jerks_.
   about four miles I came to a house and hired a woman to take me over
   the river in a canoe, for my remaining money and a pair of scissors;
   the latter of which was the chief object with her: so our extremities
-  are other’s opportunities. Thus with difficulty I got to my
+  are other's opportunities. Thus with difficulty I got to my
   appointment in Newport in time.
 
   I had heard about a singularity called the _jerks_ or _jerking
@@ -1801,7 +1837,7 @@ Dow as the _jerks_.
   being ten miles on my way.
 
   In the night I grew uneasy, being twenty-five miles from my
-  appointment for next morning at eleven o’clock; I prevailed on a young
+  appointment for next morning at eleven o'clock; I prevailed on a young
   man to attempt carrying me with horses until day, which he thought was
   impracticable, considering the darkness of the night and the thickness
   of the trees. Solitary shrieks were heard in these woods, which he
@@ -1822,8 +1858,8 @@ Dow as the _jerks_.
   weary, they invited me to ride, and soon our company was increased to
   forty or fifty who fell in with us on the road, from different
   plantations. At length I was interrogated, whether I knew anything
-  about the preacher. I replied. “I have heard a good deal about him,
-  and have heard him preach, but I have no great opinion of him.” And
+  about the preacher. I replied. "I have heard a good deal about him,
+  and have heard him preach, but I have no great opinion of him." And
   thus the conversation continued for some miles before they found me
   out, which caused some color and smiles in the company.
 
@@ -1842,9 +1878,9 @@ Dow as the _jerks_.
   not feel free to wear coloured clothes. I spoke to a number of people
   at his house that night. Whilst at tea I observed his daughter (who
   sat opposite to me at the table) to have the jerks; and dropped the
-  tea cup from her hand in the violent agitation. I said to her, “Young
-  woman, what is the matter?” She replied, “I have got the jerks.” I
-  asked her how long she had it? She observed “a few days” and that it
+  tea cup from her hand in the violent agitation. I said to her, "Young
+  woman, what is the matter?" She replied, "I have got the jerks." I
+  asked her how long she had it? She observed "a few days" and that it
   had been the means of the awakening and conversion of her soul by
   stirring her up to serious consideration about her careless state,
   etc.
@@ -1871,14 +1907,14 @@ Dow as the _jerks_.
   therefore it seems to me (from the best judgment I can form) that God
   hath seen proper to take this method, to convince people, that he will
   work in a way to show his power; and sent the _jerks_ as a sign of the
-  times, partly in judgment for the people’s unbelief, and yet as a
+  times, partly in judgment for the people's unbelief, and yet as a
   mercy to convict people of divine realities.
 
 
 Davy Crockett Runs for Office
 
-Davy Crockett, who describes himself as an “ignorant backwoods
-bearhunter,” was just another poor frontier boy until he got into
+Davy Crockett, who describes himself as an "ignorant backwoods
+bearhunter," was just another poor frontier boy until he got into
 politics. Then he served in the state legislature and later in Congress.
 He became the fair-haired boy of Whig politicians when he broke with
 Andrew Jackson, his fellow Tennessee Democrat. Subsequently, his
@@ -1891,7 +1927,7 @@ everyone remembers, during the heroic defense of the Alamo. The
 following selection is taken from _A Narrative of the Life of Davy
 Crockett_, which passes for his autobiography but which undoubtedly was
 ghostwritten for him. This account describes with typical frontier
-exaggeration Crockett’s first campaign for office.
+exaggeration Crockett's first campaign for office.
 
   In a little time I was asked to offer for the Legislature in the
   counties of Lawrence and Heckman. I offered my name in the month of
@@ -1906,7 +1942,7 @@ exaggeration Crockett’s first campaign for office.
   the government [_Jackson was not yet President, and Crockett was still
   a Democrat_], nor did he seem in as fair a way to become so as I do
   now; but I knowed so little about it, that if any one had told me he
-  was “the government,” I should have believed it, for I had never read
+  was "the government," I should have believed it, for I had never read
   even a newspaper in my life, or anything else, on the subject. But
   over all my difficulties, it seems to me I was born for luck, though
   it would be hard for any one to guess what sort. I will, however,
@@ -1915,9 +1951,9 @@ exaggeration Crockett’s first campaign for office.
   I went first into Heckman county, to see what I could do among the
   people as a candidate. Here they told me that they wanted to move
   their town nearer to the centre of the county, and I must come out in
-  favor of it. There’s no devil if I knowed what this meant, or how the
+  favor of it. There's no devil if I knowed what this meant, or how the
   town was to be moved; and so I kept dark, going on the identical same
-  plan that I now find is called “_noncommittal_.” About this time there
+  plan that I now find is called "_noncommittal_." About this time there
   was a great squirrel hunt on Duck River, which was among my people.
   They were to hunt two days; then to meet and count the scalps, and
   have a big barbecue, and what might be called a tip-top country
@@ -1934,21 +1970,21 @@ exaggeration Crockett’s first campaign for office.
   of as an outlandish Negro.
 
   A public document I had never seen, nor did I know there were such
-  things; and how to begin I couldn’t tell. I made many apologies, and
-  tried to get off, for I know’d I had a man to run against who could
-  speak prime, and I know’d, too, that I wasn’t able to shuffle and cut
+  things; and how to begin I couldn't tell. I made many apologies, and
+  tried to get off, for I know'd I had a man to run against who could
+  speak prime, and I know'd, too, that I wasn't able to shuffle and cut
   with him. He was there, and knowing my ignorance as well as I did
   myself, he also urged me to make a speech. The truth is, he thought my
-  being a candidate was a mere matter of sport; and didn’t think for a
+  being a candidate was a mere matter of sport; and didn't think for a
   moment that he was in any danger from an ignorant backwoods bear
-  hunter. But I found I couldn’t get off, and so I determined just to go
+  hunter. But I found I couldn't get off, and so I determined just to go
   ahead, and leave it to chance what I should say. I got up and told the
-  people I reckoned they know’d what I come for, but if not, I could
-  tell them. I had come for their votes, and if they didn’t watch mighty
-  close I’d get them too. But the worst of all was, that I could not
+  people I reckoned they know'd what I come for, but if not, I could
+  tell them. I had come for their votes, and if they didn't watch mighty
+  close I'd get them too. But the worst of all was, that I could not
   tell them anything about government. I tried to speak about something,
   and I cared very little what, until I choked up as bad as if my mouth
-  had been jamm’d and cramm’d chock full of dry mush. There the people
+  had been jamm'd and cramm'd chock full of dry mush. There the people
   stood, listening all the while, with their eyes, mouths, and ears all
   open, to catch every word....
 
@@ -1957,9 +1993,9 @@ exaggeration Crockett’s first campaign for office.
   road-side, when a traveler, who was passing along, asked him what he
   was doing that for? The fellow replied that there was some cider in
   that barrel a few days before, and he was trying to see if there was
-  any then, but if there was he couldn’t get at it. I told them that
+  any then, but if there was he couldn't get at it. I told them that
   there had been a little bit of speech in me a while ago, but I
-  believed I couldn’t get it out. They all roared out in a mighty laugh,
+  believed I couldn't get it out. They all roared out in a mighty laugh,
   and I told some other anecdotes, equally amusing to them, and
   believing I had them in a first-rate way, I quit and got down,
   thanking the people for their attention. But I took care to remark
@@ -1975,8 +2011,8 @@ exaggeration Crockett’s first campaign for office.
   when we broke up I went on to the town of Vernon, which was the same
   [_town_] they wanted me to move. Here they pressed me again on the
   subject, and I found I could get either party by agreeing with them.
-  But I told them I didn’t know whether it would be right or not, and so
-  couldn’t promise either way.
+  But I told them I didn't know whether it would be right or not, and so
+  couldn't promise either way.
 
   Their court commenced on the next Monday, as the barbecue was on a
   Saturday, and the candidates for Governor, and for Congress, as well
@@ -1984,7 +2020,7 @@ exaggeration Crockett’s first campaign for office.
 
   The thought of having to make a speech made my knees feel mighty weak,
   and set my heart to fluttering almost as bad as my first love scrape
-  with the Quaker’s niece. But as good luck would have it, these big
+  with the Quaker's niece. But as good luck would have it, these big
   candidates spoke nearly all day, and when they quit, the people were
   worn out with fatigue, which afforded me a good apology for not
   discussing the government. But I listened mighty close to them, and
@@ -2006,7 +2042,7 @@ between the Midwestern backwoods and the Old World. The following
 selection comes from his book, _Notes on a Journey in America, from the
 Coast of Virginia to the Territory of Illinois_.
 
-  _August 1._ Dagley’s, twenty miles north of Shawnee Town. After
+  _August 1._ Dagley's, twenty miles north of Shawnee Town. After
   viewing several beautiful prairies, so beautiful with their
   surrounding woods as to seem like the creation of fancy, gardens of
   delight in a dreary wilderness, and after losing our horses and
@@ -2016,10 +2052,10 @@ Coast of Virginia to the Territory of Illinois_.
 
   Since we left the Fox settlement, about fifteen miles north of the Big
   Prairie, cultivation has been very scanty, many miles intervening
-  between the little “clearings.” This may therefore be truly called a
+  between the little "clearings." This may therefore be truly called a
   new country.
 
-  These lonely settlers are poorly off—their bread corn must be ground
+  These lonely settlers are poorly off--their bread corn must be ground
   thirty miles off, requiring three days to carry to the mill and bring
   back the small horse-load of three bushels. Articles of family
   manufacture are very scanty, and what they purchase is of the meanest
@@ -2028,14 +2064,14 @@ Coast of Virginia to the Territory of Illinois_.
   they seem, wanting everything. To struggle with privations has now
   become the habit of their lives, most of them having made several
   successive plunges into the wilderness, and they begin already to talk
-  of selling their “improvements” and getting still farther “back” on
+  of selling their "improvements" and getting still farther "back" on
   finding that emigrants of another description are thickening about
   them.
 
   Our journey across the Little Wabash was a complete departure from all
   mark of civilization. We saw no bears, as they are now buried in the
   thickets, and seldom appear by day; but, at every few yards, we saw
-  recent marks of their doings, “wallowing” in the long grass or turning
+  recent marks of their doings, "wallowing" in the long grass or turning
   over decayed logs in quest of beetles or worms, in which work the
   strength of this animal is equal to that of four men. Wandering
   without track, where even the sagacity of our hunter-guide had nearly
@@ -2052,8 +2088,8 @@ Coast of Virginia to the Territory of Illinois_.
   slender motive would place him in a fourth before the ensuing winter.
   In his general habits the hunter ranges as freely as the beasts he
   pursues; labouring under no restraint, his activity is only bounded by
-  his own physical powers: still he is incarcerated—“Shut from the
-  common air.” Buried in the depth of a boundless forest, the breeze of
+  his own physical powers: still he is incarcerated--"Shut from the
+  common air." Buried in the depth of a boundless forest, the breeze of
   health never reaches these poor wanderers; the bright prospect of
   distant hills fading away into the semblance of clouds, never cheered
   their sight. They are tall and pale, like vegetables that grow in a
@@ -2068,13 +2104,13 @@ Coast of Virginia to the Territory of Illinois_.
   were, they would not touch it, and their squeamishness so far abated
   our relish for the promised stew that we did not press our complaining
   landlady to prepare it; and thus our supper consisted of the residue
-  of our “corn” bread and _no_ raccoon. However, we laid our bear skins
+  of our "corn" bread and _no_ raccoon. However, we laid our bear skins
   on the filthy earth (floor there was none), which they assured us was
-  “too damp for fleas,” and wrapped in our blankets slept soundly
+  "too damp for fleas," and wrapped in our blankets slept soundly
   enough; though the collops [_slices_] of venison hanging in comely
   rows in the smoky fireplace and even the shoulders put by for the dogs
   and which were suspended over our heads would have been an acceptable
-  prelude to our night’s rest, had we been invited to partake of them;
+  prelude to our night's rest, had we been invited to partake of them;
   but our hunter and our host were too deeply engaged in conversation to
   think of supper. In the morning the latter kindly invited us to cook
   some of the collops, which we did by toasting them on a stick, and he
@@ -2083,7 +2119,7 @@ Coast of Virginia to the Territory of Illinois_.
 
   The cabin, which may serve as a specimen of these rudiments of houses,
   was formed of round logs with apertures of three or four inches
-  between. No chimney, but large intervals between the “clapboards” for
+  between. No chimney, but large intervals between the "clapboards" for
   the escape of the smoke. The roof was, however, a more effectual
   covering than we have generally experienced, as it protected us very
   tolerably from a drenching night. Two bedsteads of unhewn logs and
@@ -2102,7 +2138,7 @@ Coast of Virginia to the Territory of Illinois_.
 
 
 When the War of 1812 ended, the United States consisted of eighteen
-states—nine free and nine slave. Very soon Indiana was admitted as a
+states--nine free and nine slave. Very soon Indiana was admitted as a
 free state, offset by Mississippi as a slave state. It was inevitable
 that this precarious balance between the North and the South would some
 day cause trouble, and the trouble came very soon. In 1818, Illinois
@@ -2120,7 +2156,7 @@ The following year, when Maine applied for admission into the Union,
 Henry Clay of Kentucky engineered the famous Missouri Compromise. This
 agreement provided that Missouri would come in as a slave state but that
 no more slave states would be admitted from territory north of
-Missouri’s southern boundary. This compromise is important because it
+Missouri's southern boundary. This compromise is important because it
 foreshadows the struggle between the North and South that eventuated in
 the Civil War a generation later. Although most of the oratory dealt
 with the slavery issue, the struggle also concerned the broader matter
@@ -2168,7 +2204,7 @@ of New Hampshire against the extension of slavery.
   supreme law was made are succinctly stated in its preface. They are,
   first, to form a more perfect union and insure domestic tranquility.
   Will slavery effect this? Can we, sir, by mingling bond with free,
-  black spirits with white, like Shakespeare’s witches in Macbeth, form
+  black spirits with white, like Shakespeare's witches in Macbeth, form
   a more perfect union and insure domestic tranquility? Secondly, to
   establish justice. Is justice to be established by subjecting half
   mankind to the will of the other half? Justice, sir, is blind to
@@ -2206,7 +2242,7 @@ Virginia defends slavery:
 
   Let it not, however, be supposed that in the abstract I am advocating
   slavery. Like all other human things, it is mixed with good and
-  evil—the latter, no doubt, preponderating.... Whether slavery was
+  evil--the latter, no doubt, preponderating.... Whether slavery was
   ordained by God Himself in a particular revelation to His chosen
   people, or whether it be merely permitted as a part of that moral evil
   which seems to be the inevitable portion of man, are questions I will
@@ -2242,8 +2278,8 @@ pleads with Congress to accept the Compromise:
   If the deadliest enemy this country has, or ever had, could dictate
   language the most likely to destroy your glory, prosperity, and
   happiness, would it not be precisely what has been so profusely used
-  in this debate—sectional vaunting?... Indeed, sir, there is no view of
-  this unhappy division of our country but must be sickening to the
+  in this debate--sectional vaunting?... Indeed, sir, there is no view
+  of this unhappy division of our country but must be sickening to the
   patriot and in direct violation of the dictate of wisdom, and the
   last, though not least, important advice of the Father and Friend of
   his Country. He forbids the use of the words Northern and Southern,
@@ -2257,7 +2293,7 @@ pleads with Congress to accept the Compromise:
   determination that augurs ill of the high destinies of this country!
   And who does not tremble for the consequences?...
 
-  I wish not to be misunderstood, sir. I don’t pretend to say that in
+  I wish not to be misunderstood, sir. I don't pretend to say that in
   just five calendar months your Union will be at an end;...
 
   But, sir, I do say, and, for the verity of the remark, cite the
@@ -2276,7 +2312,7 @@ pleads with Congress to accept the Compromise:
 
 
 Although the United States was mainly concerned with internal problems
-during Monroe’s presidency, there was one important policy established
+during Monroe's presidency, there was one important policy established
 during this period in the area of foreign relations. This was the Monroe
 Doctrine. It was a statement of policy made by the President in a
 message to Congress in 1823, which defined the role of the United States
@@ -2285,9 +2321,9 @@ United States policy.
 
 The Doctrine states that the United States will not tolerate further
 foreign colonial expansion by European powers in North or South America.
-This policy was necessary because Spain’s colonies in Latin America had
+This policy was necessary because Spain's colonies in Latin America had
 recently revolted, and it looked as though the other European powers
-might try to reconquer Spain’s former colonies. In addition, Russia was
+might try to reconquer Spain's former colonies. In addition, Russia was
 moving southward from Alaska and claiming land down to the 51st
 parallel, which would have taken in much of what is now British
 Columbia. The Monroe Doctrine also declares that the United States will
@@ -2370,7 +2406,7 @@ is to improve the lot of the people. He favors roads and canals, but
 even more, moral and intellectual improvements.
 
 
-Excerpts from Adams’ First Message to Congress
+Excerpts from Adams' First Message to Congress
 
   Upon this first occasion of addressing the Legislature of the Union,
   with which I have been honored, in presenting to their view the
@@ -2390,7 +2426,7 @@ Excerpts from Adams’ First Message to Congress
   countrymen, that once and again in his addresses to the Congresses
   with whom he co-operated in the public service he earnestly
   recommended the establishment of seminaries of learning, to prepare
-  for all the emergencies of peace and war—a national university and a
+  for all the emergencies of peace and war--a national university and a
   military academy. With respect to the latter, had he lived to the
   present day, in turning his eyes to the institution at West Point he
   would have enjoyed the gratification of his most earnest wishes; but
@@ -2460,7 +2496,7 @@ Excerpts from Adams’ First Message to Congress
 
 
 
-                          Transcriber’s Notes
+                          Transcriber's Notes
 
 
 --Retained publication information from the printed edition: this eBook
@@ -2487,4 +2523,365 @@ Excerpts from Adams’ First Message to Congress
 End of the Project Gutenberg EBook of The Jeffersonians, 1801-1829, by 
 Richard B. Morris and James Woodress
 
-*** END OF THE PROJECT GUTENBERG EBOOK 60854 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE JEFFERSONIANS, 1801-1829 ***
+
+***** This file should be named 60854-8.txt or 60854-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/0/8/5/60854/
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
